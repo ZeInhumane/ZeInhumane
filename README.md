@@ -23,7 +23,7 @@
 <br />
 <br /><br />
 <details>
-<br /><br />
+<br />
 
   <summary>:zap: GitHub Stats</summary>
 
