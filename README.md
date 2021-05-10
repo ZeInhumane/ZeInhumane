@@ -22,6 +22,8 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 <details>
+<br>
+<br>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ZeInhumane&show_icons=true&hide_border=true&count_private=true?theme=dark" />
