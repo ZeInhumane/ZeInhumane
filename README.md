@@ -25,6 +25,6 @@ I am interested in programming....
 
   <summary>My GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ZeInhumane&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZeInhumane&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 </details>
